@@ -14,7 +14,7 @@ import tkinter as tk
 import winreg
 from tkinter import ttk
 
-URL = "https://www.youtube.com/@LofiGirl/live"
+URL = "https://www.youtube.com/watch?v=rFZHOHl-L8A"
 PIPE = r"\\.\pipe\lofi-mpv"
 
 # Saat dibungkus PyInstaller, resource ada di _MEIPASS; pengaturan disimpan di %APPDATA% (bisa ditulis).
